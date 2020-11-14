@@ -34,10 +34,8 @@ Insurance Company Limited full Project with PHP OOP
 
 <img scr="Awebfox/2.png" />
 <img scr="Awebfox/news_event.png" />
-
 <img scr="Awebfox/admin_1.png" />
 <img scr="Awebfox/admin_share-holdings.png" />
-
 <img scr="Awebfox/home.png" />
 
 # MD. IMRAN HOSEN
