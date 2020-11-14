@@ -32,13 +32,13 @@ Insurance Company Limited full Project with PHP OOP
 
 <h1> Some Screenshots </h1>
 
-<img scr="Awebfox/2.png" />
-<img scr="Awebfox/news_event.png" />
-<img scr="Awebfox/admin_1.png" />
-<img scr="Awebfox/admin_share-holdings.png" />
-<img scr="Awebfox/home.png" />
+<img scr="Awebfox/2.png" width="100%" />
+<img scr="Awebfox/news_event.png" width="100%" />
+<img scr="Awebfox/admin_1.png" width="100%" />
+<img scr="Awebfox/admin_share-holdings.png" width="100%" />
+<img scr="Awebfox/home.png" width="100%" />
 
 # MD. IMRAN HOSEN
-# Email: imranhosen.csit@gmail.com
-# Phone: 01409575149
-# Address: Dhaka, Bangladesh
+## Email: imranhosen.csit@gmail.com
+## Phone: 01409575149
+## Address: Dhaka, Bangladesh
