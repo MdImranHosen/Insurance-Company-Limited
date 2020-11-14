@@ -1,0 +1,1378 @@
+ /*Md Imran Hosen www.github.com/MdImranHosen*/
+/* *{
+  font-family: sans-serif;
+ }*/
+.btn-style-one{
+  cursor: pointer;
+}
+.du_event_class_nav_image{
+	height: 100px;
+	width: auto;
+}
+.du_event_list_style{
+	padding-top: 20px;
+	border: 2px solid #17A2B8;
+	margin-top: 20px;
+	padding-bottom: 10px;
+}
+.du_event_list_body h2{
+	border-bottom: 2px solid #17A2B8;
+	padding-bottom: 15px;
+}
+.border_top_du_event{
+	border-top: 2px solid #17A2B8;
+	padding-top: 10px;
+}
+.border_event_logo{
+	border-right:2px solid #17A2B8;
+}
+.du_event_footer_left{
+   padding-top: 30px;
+}
+.du_event_footer_left p{
+	
+}
+.du_event_apply_button_style{
+	margin-top: 35px;
+  border-left: 2px solid #17A2B8;
+}
+.text-red{
+  color: red;
+}
+
+ select.form-control:not([size]):not([multiple]) {
+    height: auto;
+  }
+.file_cooser_style{
+  padding:6px;
+}
+.preview_image{
+  text-align: center;
+  font-weight: bold;
+  background-color:
+  transparent;
+  overflow: auto;
+  top: 10px;
+  width: 94%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;   
+}
+:not(.input-group) > .bootstrap-select.form-control:not([class*="col-"]) {
+    width: 100%;
+    border: 2px solid #ddd;
+}
+.header-style-two .main-menu .navigation > li {
+  padding: 8px 0;
+}
+.main-menu .navigation > li{
+  margin-left: 8px;
+  margin-right: 14px;
+}
+.main-header.header-style-two.alternate-two .main-menu .navigation > li a{
+  color: black;
+  font-size: 15px;
+  font-weight: normal;
+  outline: none;
+  display: block;
+  text-decoration: none;
+  text-transform: none;
+}
+.main-header.header-style-two.alternate-two .main-menu .navigation > li.dropdown li a:hover{
+  color: white;
+  background: #6D0D67;
+}
+
+.header-style-two .main-box {
+  background: white;
+}
+.header-top-two .top-left .links li a{
+  color: black;
+}
+.header-top-two .top-right .social-icons li a{
+  color: black;
+}
+#event_pic{
+  overflow: hidden;
+  border:5px solid #ddd; 
+  border-radius: 5px;
+  width: 90%;
+  cursor: pointer;
+  padding: 3px;
+}
+#menu_logo{
+  display: none;
+}
+.dropdown ul li{
+  border-bottom: 1px solid #ddd;
+}
+.dropdown ul li:last-child{
+  border-bottom: 0px solid #ddd;
+}
+ /*Md Imran Hosen www.github.com/MdImranHosen*/
+ .news-section.alternate.new_event{
+  padding-top: 20px;
+}
+ .events_news .inner-box{
+  background-color: #63339c;
+  box-shadow: 0 0 20px rgba(103, 86, 86, 0.23);
+}
+.events_news h4{
+  color: #fff;
+}
+.events_news h4 a{
+  color: #fff;
+}
+.events_news .post-info li{
+  color: #fff;
+}
+.events_news .post-info li span {
+    color: #fff;
+}
+.page-title .page_header_style{
+  color: #63339C;
+}
+.page-title .page_header_style li{
+  display: inline-block;
+  padding: 3px 3px;
+  margin: 3px 0px;
+  color: #63339C;
+}
+.page-title .page_header_style li a{
+  color: #63339C;
+  text-decoration: underline;
+  padding-bottom: 4px;
+}
+.sec-title h2{
+  font-family: sans-serif;
+}
+.page-title h1{
+  font-family: sans-serif;
+}
+.product_services{
+  padding: 20px 0 10px;
+}
+.feature-block-two .icon-box{
+  top: 27%;
+}
+.feature-block-two .inner-box{
+  background-color: #63339C;
+  min-height: 150px;
+}
+.feature-block-two .icon-box .icon{
+  color: #fff;
+}
+.feature-block-two h4{
+   margin-top: 10px;
+   font-family: sans-serif;
+ }
+.feature-block-two h4 a{
+  color: #fff;
+}
+.services_page{
+  padding-top: 0px;
+}
+.page_title_two{
+  padding-bottom: 20px;
+}
+.page_header_space_less{
+  padding-top: 5px;
+}
+.padding-top{
+  margin-top: 70px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+}
+
+.image-column .owl-dots{
+  position: absolute;
+  top: 85%;
+  width: 100%;
+  text-align: center;
+}
+.image-column .owl-nav {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+}
+.image-column .owl-dots .owl-dot{ 
+  background-color: #ffffff;
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  display: inline-block;
+  margin-right: 5px;
+}
+
+.image-column .owl-dots .active{ 
+  background-color: #6D0D67;
+}
+
+.image-column .owl-next, .image-column .owl-prev {
+    position: absolute;
+    left: -13px;
+    top: 0;
+    height: 40px;
+    width: 40px;
+    font-size: 22px;
+    color: #ffffff;
+    line-height: 40px;
+    margin-left: 15px;
+    border-radius: 50%;
+    text-align: center;
+    background-color: #6D0D67;
+    -webkit-transition: all 300ms ease;
+    -moz-transition: all 300ms ease;
+    -ms-transition: all 300ms ease;
+    -o-transition: all 300ms ease;
+    transition: all 300ms ease;
+}
+
+.image-column .owl-next {
+    left: auto;
+    right: 3px;
+}
+
+#news_events_owl .owl-nav {
+    position: absolute;
+    top: 72%;
+    width: 100%;
+}
+#news_events_owl .owl-nav .owl-next{ 
+  float: right;
+  background: #6D0D67;
+  padding: 3px 10px;
+  color: white;
+  font-weight: bold;
+  margin-right: 12px;
+}
+#news_events_owl .owl-nav .owl-prev{ 
+  float: left;
+  background: #6D0D67;
+  padding: 3px 10px;
+  color: white;
+  font-weight: bold;
+  margin-left: 12px;
+}
+
+.services_policy_owl .owl-nav {
+    position: absolute;
+    top: 28%;
+    width: 100%;
+    display: block !important;;
+}
+
+.services_policy_owl .owl-nav .owl-next{ 
+  float: right;
+  color: transparent;
+  font-weight: bold;
+  background: url(../images/policy/next-btn.png);
+  width: 50px;
+  height: 50px;
+  background-repeat: no-repeat;
+  margin-right: -25px;
+}
+.services_policy_owl .owl-nav .owl-prev{ 
+  float: left;
+  color: transparent;
+  font-weight: bold;
+  background: url(../images/policy/prev-btn.png);
+  width: 50px;
+  height: 50px;
+  background-repeat: no-repeat;
+  margin-left: -25px;
+}
+
+.services_fbpage{
+  margin-bottom: 30px;
+  padding-top: 30px;
+}
+.services_fbpage h2 {
+  font-size:1.615em;
+  font-weight: 400;
+  text-transform: uppercase;
+  border-bottom:2px solid #f5f5f5;
+  margin-bottom: 30px;
+  font-family: sans-serif;
+  font-weight: normal;
+}
+.services_fbpage h2 span{
+  border-bottom:2px solid #6D0D67 !important;
+  padding-bottom: 6px;color: black;
+  font-size: 27px;
+  font-family: sans-serif;
+}
+.servervices_pstyle{
+  border-bottom:1px solid #ddd;
+  border-right:1px solid #ddd;
+}
+.servervices_pstyle p{
+    padding-top: 30px;
+    padding-bottom: 15px;
+    padding-left: 50px;
+    color: black;
+    font-family: sans-serif;
+}
+.event_news_style{
+   padding: 8px;
+   min-height: 200px;
+   margin: 2%;
+ }
+.event_news_style h3{
+    font-family: sans-serif;
+    font-size: 16px;
+    color: #222;
+    font-weight: bold;
+    line-height: 20px;
+}
+
+.event_news_style p{
+    font-size: 14px;
+    color: #222;
+    margin-top: 7px;
+    font-family: sans-serif;
+    line-height: 22px;
+    margin-bottom: 5px;
+    padding: 5px;
+}
+.imran_event_news{
+  margin-top: 30px;
+}
+.imran_event_news a {
+  margin-top: 30px;
+  border: 2px solid #6d0d67cc;
+  padding: 12px 12px;
+  color: #fff;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 24px;
+  cursor: pointer;
+  border-radius: 3px;
+  background: #6D0D67;
+}
+.imran_event_news a:hover{
+  background-color:#6d0d67cc;
+  color:white;
+}
+.event_financial_indicators_style {   
+   border: 1px solid #EEEEEE;
+   border-bottom: 1px solid #6D0D67;
+   padding: 8px;
+   min-height: 170px;
+   margin-bottom: 5%;
+   background: white;
+ }
+.event_financial_indicators_style h3{
+  margin-bottom: 15px;
+  padding-left: 5px;
+  margin-left: 10px;
+  color: black;
+}
+.event_financial_indicators_style a{
+  cursor: pointer;
+  padding:8px;
+  border: 3px solid #6D0D67;
+  border-radius: 3px;
+  color: #6D0D67;
+  text-align: center;
+  margin-left: 15px;
+  background: white;
+  font-size: 18px;  
+}
+
+.news-block .inner-box{
+  min-height: 320px;
+}
+.imran_events_news_text h6 a{
+  color:black;
+  font-family: sans-serif;
+}
+
+.event_financial_indicators_style a:hover {
+  background: #6D0D67;
+  color: white;
+}
+
+/* Footer Style Md Imran Hosen www.github.com/MdImranHosen  */
+.main-footer .about-widget .text p {
+  color: #101010;
+}
+.main-footer .footer-column .widget-title {
+  color: #0e0d0d;
+}
+.user-links li a {
+  color: #0e0d0d;
+}
+.main-footer .contact-list li .text {
+  color: #0e0d0d;
+}
+.main-footer .contact-list li .text a {
+  color: #0e0d0d;
+}
+.main-footer .contact-list li .icon {
+  color: #0e0d0d;
+}
+.main-footer .footer-bottom {
+  background: #101010;
+}
+
+.sec-title{
+  border-bottom: 1px solid #ddd;
+  color: #222222;
+  padding-top: 20px;
+  padding-bottom: 15px;
+  /*background-image: url(../img/title-background.jpg);*/
+  margin-bottom: 30px;
+}
+.sec-title p{color: #6D0D67;}
+.sec-title a{
+  color: #6D0D67;
+  font-size: 15px;
+}
+.page_title_new{margin-top: 52px;}
+.contact-page-section {
+    padding: 0px 0 70px;
+}
+.blog-categories{
+}
+
+.blog-categories li{  
+    padding-left: 7px;
+    color: #222;
+    background: #F3F3F3;
+    border-bottom: 1px solid #ddd;
+}
+
+a.whoareyoumenu i{
+  padding-right: 10px;
+}
+.blog-categories li.active, .blog-categories li:hover{
+  border-left: 3px solid #6D0D67;
+}
+
+.blog-categories li a{
+  padding-top: 8px;
+  color: #222;
+  font-family: sans-serif;
+  font-weight: normal;
+  font-size: 1em;
+}
+.blog-single .lower-content{
+  background: #F9F9F9;
+}
+.blog-single .lower-content p{
+  padding: 5px;
+  font-size: 17px;
+  text-align: justify;
+  line-height: 28px;
+  font-weight: normal;
+  color: #000000;
+  font-family: sans-serif;
+}
+.blog-single .lower-content p.ab_title{
+  padding: 5px;
+  font-size: 20px;
+  text-align: justify;
+  line-height: 30px;
+  font-weight: normal;
+  font-family: sans-serif;
+  color: #000000;
+}
+.imran_sbod{
+  margin-bottom: 10px;
+  text-align: center;
+}
+.imran_sbod img {
+    margin-bottom: 7px;
+    max-height: 300px;
+    min-height: 300px;
+}
+.imran_sbod_details{
+  text-align: justify;
+  font-size: 18px;
+  line-height: 22px;
+  font-weight: normal;
+  font-family: sans-serif;
+}
+h1.annual_reports_style{
+  color: black;
+  font-family: sans-serif;
+  font-size: 30px;
+  padding-left: 10px;
+}
+ul.github_imranhosen_annual_des{
+ /*margin-top: 20px; */
+}
+.github_imranhosen_annual_des li{
+ padding: 10px;
+}
+.github_imranhosen_annual_des li a{
+  color: black;
+  font-size: 18px;
+  font-family: sans-serif;
+}
+.github_imranhosen_annual_des li a i{
+  color: #6D0D67;
+}
+.github_imranhosen_annual_des li a:hover{
+  color: #6D0D67;
+  text-decoration: underline;
+}
+.download_page_style{
+  border: 1px solid #ddd;
+  padding: 5px;
+  margin: 8px;
+}
+.download_page_style h2{
+  border-bottom: 2px solid #ddd;
+  margin-top: 20px;
+  padding: 5px;
+}
+.download_page_style .github_imranhosen_annual_des{
+  border: 1px solid #ddd;
+  padding:5px;
+  margin: 6px;
+}
+.faq_page_title_style{
+  padding-bottom: 5px;
+  border-bottom: 2px solid #ddd;
+  margin-bottom: 10px;
+}
+.faq_page_style{
+    padding: 5px;
+    background-color: white;
+    border-radius: 16px;
+    border: 1px solid #ddd;
+    margin-top: 10px;
+}
+.faq_page_style h3{
+  font-size: 22px;
+  color: #222222;
+  padding: 3px;
+  font-weight: normal;
+}
+.faq_page_style p{ 
+ color: #222222;
+ font-size: 16px;
+ font-weight: normal;
+ line-height: 24px;
+ padding: 8px 0px 0px 8px;
+}
+.github_mdimranhosen_faq{
+  width: 50%;
+  padding: 0px;
+  margin: 0px;
+  border: 1px solid #634f4f;
+}
+.imran_branches_style{
+   border: 1px solid #DDDDDD;
+   padding: 8px;
+   min-height: 170px;
+}
+
+.imran_branches_style h4{
+  margin-bottom: 15px;
+  margin-left: 10px;
+  color: black;
+}
+.imran_branches_style p{
+  color: black;
+  margin-left: 10px;
+}
+
+.schedule-tabs .event_tabs li:nth-child(4n + 1).active-btn, 
+.schedule-tabs .event_tabs li:nth-child(4n + 2).active-btn,
+.schedule-tabs .event_tabs li:nth-child(4n + 3).active-btn, 
+.schedule-tabs .event_tabs li:nth-child(4n + 4).active-btn {
+    box-shadow: 0 0px 30px rgba(128, 52, 185, 0.55);
+    border: 1px solid #89459E;
+    background: #6D0D67;
+    color: #ffffff;
+}
+
+.schedule-tabs.style-three .event_tabs li {
+    float: unset;
+    width: auto;
+    border: 1px solid #f9edf8;
+    margin-bottom: 5px;
+    background-color: #6d0d677a;
+}
+.schedule-tabs .event_tabs li {
+    height: auto;
+    width: auto;
+    padding: 18px 2%;
+}
+.schedule-tabs .imran_services_tab li {
+    height: auto;
+    width: auto;
+    padding: 18px 5%;
+}
+.schedule-tabs .event_tabs li:hover {
+    background-color: #6D0D67;
+    color: white;
+}
+.imran_schedule_style{
+  padding: 0px 0px 10px;
+}
+.schedule-section.style-three .schedule-block .branches_style .inner{
+  padding: 5px 25px 4px;
+  min-height: 230px;
+}
+.branches_style h4{
+  font-size: 20px;
+  border-bottom: 2px solid #6D0D67;
+  padding-bottom: 7px;
+}
+.branches_style p{
+  font-size: 16px;
+  font-family: sans-serif;
+  color: #282923;
+  margin: 2px;
+}
+
+.gallery-section {
+    padding: 20px 0 90px;
+}
+.blog-single .imran_text_style{
+  padding: 0px;
+}
+.blog-single .imran_text_style p{
+  padding: 0px;
+  margin: 0px;
+}
+
+.imran_sec-title{
+   border-bottom: 1px solid #ddd;
+   color: #404040;
+   padding-top: 20px;
+   padding-bottom: 15px;
+   margin-bottom: 30px;
+}
+.imran_sec-title h2{
+  position: relative;
+  display: inline-block;
+  font-size: 32px;
+  line-height: 1.2em;
+  color: #6D0D67;
+  font-weight: 700;
+  font-family: sans-serif;
+}
+
+.categories > .resume_button{
+  background: #89459E;
+  color: white;
+  padding: 10px;
+}
+.categories > .resume_button:hover{
+  background: #8945A5;
+}
+
+.charman_space{
+  display: block;
+  float: left;
+  position: relative;
+  padding: 5px;
+  color: black;
+}
+.charman_space p{
+  padding: 0px;
+  margin: 0px;
+  font-family: sans-serif;
+  color: black;
+  border-bottom:1px solid #ddd;
+}
+.charman_space img{    
+    width: 40%;
+    height: auto;
+    float: left;
+    overflow: all;
+    display: flex;
+    padding: 7px;
+    text-align: center;
+    margin-right: 8px;
+}
+.charman_space span{
+  width:60%;
+  padding-top: 0px;
+  margin-top: 0px;
+  text-align: justify-all;
+  font-family: sans-serif;
+}
+.charman_space a{
+  color: black;
+}
+.charman_space a:hover{
+  color:#000;
+}
+.imran-btn-style{ 
+  background: #6D0D67;
+  border: 2px solid #442326;
+  color: white;
+}
+.imran-btn-style:hover{ 
+  background: #690008;
+  color: white; 
+}
+a.imran-btn-style:hover{ 
+  background: #690008;
+  color: white; 
+}
+.imran-icon-color{
+  color: #6D0D67;
+}
+.header-top-two .top-left .links li a .icon{
+ color: #6D0D67;
+}
+.github_imranhosen_services h3{
+  color: #000000;
+  font-family: sans-serif;
+  padding-bottom: 20px;
+}
+
+.github_imranhosen_policy{
+  text-align: center;
+}
+
+.github_imranhosen_policy img{
+  background-color: #ffffff;
+  padding: 15%;
+  border-radius: 50%;
+  border: 1px solid #f9edf8;
+  background-color: #6d0d677a;
+}
+ .owl-carousel .owl-item .github_imranhosen_policy img{
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+.github_imranhosen_policy p{
+  padding-top: 10px;
+  color: #000000;
+  font-size: 1.2em;
+  font-family: sans-serif;
+}
+.github_imranhosen_policy a{
+  color: #000000;
+  text-align: center;
+}
+.imran_services_policy_bar{
+  border: none;
+  background: url(../images/policy/devider-dot.png);
+  background-repeat: repeat-x;
+  height: 7px;
+  margin: 40px 0;
+}
+.github_imranhosen_popular_policy h1{
+  text-transform: uppercase;
+  font-family: sans-serif;
+  color: #000000;
+  border-bottom: 3px solid #ddd;
+}
+.imran_circal{
+  width: 15px;
+  height: 15px;
+  background-color: #6D0D67;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.gallery-item .image-box .imran_gallery img {
+    max-height: 200px;
+    min-height: 200px;
+}
+.copyright-text a.imran_footer{
+  color: #fff;
+  text-decoration: none !important;
+  font-weight: normal;
+  margin-right: 3%;
+  background-color: #6D0D67;
+  padding: 4px 7px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.main-header .header-top-new {
+  padding-top: 10px !important;
+}
+.header-top-icon {
+  float: left;
+}
+.header-top-icon .imran-icon-color {
+  font-size: 30px;
+  vertical-align: middle;
+  display: block;
+  padding: 8px;
+}
+.header-top-text{
+  float: left;
+  font-size: 12px;
+  padding-top: 0px;
+  margin-top: 0px;
+}
+.header-top-text p {
+  padding:0px;
+  margin: 0px;
+  font-size: 13px;
+  font-weight: normal;
+  line-height: 18px;
+}
+.header-top-text a {
+  padding:0px;
+  margin: 0px;
+  font-size: 12px;
+  font-weight: bold;
+}
+.header-top-bottom-menu{
+  float: right;
+}
+.header-top-bottom-menu li{
+  display: inline-block;
+  list-style: inline;
+  font-size: 12px; 
+}
+
+.header-top-bottom-menu li a:last-child {
+    border-right: 0px solid #555;
+}
+
+.header-top-bottom-menu li a {
+    color: #555;
+    border-right: 2px solid #555;
+    padding-right: 7px;
+    font-weight: 600;
+
+}
+
+.modal_dismiss {
+  background: #6D0D67;
+  width: 33px;
+  height: 28px;
+  color: #fff;
+  cursor: pointer;
+  float: right;
+  font-size: 30px;
+  text-align: center;
+  vertical-align: middle;
+  margin-right: 29%;
+  border-radius: 50%;
+  }
+.mdimranhosen_github_serte p{
+  color: #222;
+  font-family: sans-serif;
+  font-weight: normal;
+}
+
+.header-top-new .header-top-image img {
+    float: left;
+    width: 35%;
+  }
+
+.header-top-image .github_mdimranhosen_companyname{
+  padding: 0;
+  margin: 0;
+  padding-left: 11px;
+  float: left;
+  width: 60%;
+}
+.nav-outer.gighub_imranhosen_menuicon{
+    color: black;
+    padding-right: 10px;
+}
+
+.modal > .github_mdimranhosen_welcomemodal{
+    min-width: 52%;
+}
+.modal-header > h6.welcome_modal_title{ 
+  color:#59006E;
+  font-weight: 600;
+}
+.service-head {
+    font-size: 24px;
+    color: #000;
+    font-weight: 700;
+}
+.highlight {
+    color: #6D0D67;
+}
+.service-body {
+    margin-top: 15px;
+}
+.service-body-icon {
+    border-right: 1px solid #6D0D67;
+    padding: 16px 0;
+    text-align: center;
+}
+.service-body-text {
+    font-size: 12px;
+    color: #494949;
+    padding: 10px 15px;
+}
+.service-body-icon i {
+    color: #797979;
+    font-size: 32px;
+}
+.service-body-highlight {
+    color: #6D0D67;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+@media only screen and (max-width: 1290px) {
+  .modal_dismiss {
+  margin-right: 27%;
+  }
+}
+
+@media only screen and (max-width: 1162px) {
+  .sec-title {
+    padding-top: 40px;
+    padding-bottom: 0px;
+ }
+ .header-top-icon .imran-icon-color {
+  padding: 6px;
+ }
+}
+
+@media only screen and (max-width: 1140px) {
+  .header-top-icon .imran-icon-color {
+    padding: 4px;
+   }    
+}
+
+@media only screen and (max-width: 1114px) {
+  .header-top-icon .imran-icon-color {
+    padding: 3px;
+   }
+}
+
+@media only screen and (max-width: 1105px) {
+ .header-top-icon .imran-icon-color {
+   font-size: 27px;
+  }
+ .main-menu .navigation > li {
+  margin-right: 12px;
+ }
+ .modal > .github_mdimranhosen_welcomemodal{
+    min-width: 70%;
+  } 
+}
+
+@media only screen and (max-width: 1087px) {
+.header-top-icon .imran-icon-color {
+   font-size: 25px;
+  }
+ .main-header.header-style-two.alternate-two .main-menu .navigation > li a {
+    font-size: 14px;
+ }
+ .main-menu .navigation > li {
+    margin-right: 11px;
+ }
+}
+
+@media only screen and (max-width: 1075px) {
+.header-top-icon .imran-icon-color {
+   font-size: 23px;
+  }
+}
+
+@media only screen and (max-width: 1062px) {
+ .mdimranhosen_github_menutop {
+    padding-left: 0;
+ }
+}
+
+@media only screen and (max-width: 1030px) {
+ .main-header.header-style-two.alternate-two .main-menu .navigation > li a {
+    font-size: 13px;
+  } 
+}
+
+@media only screen and (max-width: 1023px){
+.main-header.header-style-two.alternate-two .main-box,
+ .main-header.header-style-two.alternate-two {
+    background-color: #fff;
+ }
+ .modal_dismiss {
+  margin-right: 23%;
+  }
+ .page_title_new {
+    margin-top: 100px;
+ }
+
+}
+
+@media only screen and (max-width: 992px) {
+  .header-top-image .github_mdimranhosen_companyname {
+    padding-left: 3px;
+    font-size: 13px;
+  }
+ 
+}
+
+@media only screen and (max-width: 973px) {
+ .main-menu .navigation > li {
+    margin-right: 10px;
+ }
+}
+
+@media only screen and (max-width: 954px) {
+  .main-menu .navigation > li {
+    margin-left: 6px;
+    margin-right: 8px;
+ }
+}
+
+@media only screen and (max-width: 920px) {
+ .main-menu .navigation > li {
+    margin-right: 7px;
+  }
+  .header-top-image .github_mdimranhosen_companyname {
+    padding-left: 0px;
+  }
+}
+
+@media only screen and (max-width: 910px) {
+  .main-menu .navigation > li {
+    margin-right: 6px;
+    margin-left: 4px;
+  }
+  .header-top-image .github_mdimranhosen_companyname {
+    width: 63%;
+  }
+}
+
+@media only screen and (max-width: 882px) {
+  .main-menu .navigation > li {
+    margin-right: 5px;
+  }
+}
+@media only screen and (max-width: 872px) {
+  .main-menu .navigation > li {
+    margin-right: 4px;
+  }
+}
+
+@media only screen and (max-width: 863px) {
+  .header-top-image .github_mdimranhosen_companyname {
+    width: 65%;
+  }
+  .header-top-new .header-top-image img {
+    width: 33%;
+  }
+  .main-header.header-style-two.alternate-two .main-menu .navigation > li a {
+    font-size: 12px;
+  }
+}
+
+@media only screen and (max-width: 842px) {
+  .header-top-image .github_mdimranhosen_companyname {
+    width: 67%;
+  }
+  .mdimranhosen_github_menutop {
+    padding-right: 0;
+  }
+}
+
+@media only screen and (max-width: 815px) {
+  .main-header .nav-outer .main-menu {
+    display: none !important;
+  }
+  .nav-outer .mobile-nav-toggler {
+    display: block;
+    margin: 0;
+  }
+  .menu_icon_h{
+    display: none;
+  }
+  #menu_logo {
+    display: block;
+  }
+  .header-top-image{
+   display: none;
+  }
+  .github_mdimranhosen-right_menu{
+    width: 100%;
+    min-width: 100%;
+    max-width: 100%;
+  }
+  .mdimranhosen_github_menutop {
+    padding-left: 8%;
+ }
+ .sec-title {
+    padding-top: 48px;
+  }
+
+  .header-style-two .outer-box, .header-style-two .logo-box, .header-style-two .main-menu .navigation > li {
+     width: 90%;
+   }
+   #menu_logo img{
+    max-height: 80px;width: auto;float: left;
+   }
+   p.github_mdimranhosen_companyname_mobile {
+    margin: 0;
+    padding: 0;
+    text-align: left;
+  }
+  .header-style-two .nav-outer {
+    padding-top: 12px;
+  }
+}
+
+
+@media only screen and (max-width: 750px) {
+  .du_logod img{
+    width: 100%;
+  }
+  .file_cooser_style{
+    padding:6px;
+    width:219px;
+  }
+  
+   .sec-title{
+    padding-top: 70px;
+  }
+   .imran_sbod img{
+    min-width: 50%;
+    min-height: auto;
+    max-height: auto;
+  }
+   .schedule-tabs.style-three .event_tabs li {
+    float: unset;
+    width: 100%;
+    margin-bottom: 5px;
+    text-align: center;
+  }
+ 
+.event_news_style{
+   margin: 3%;
+ }
+ .services_policy_owl .owl-nav .owl-next{
+  margin-right: -2px;
+}
+.services_policy_owl .owl-nav .owl-prev{
+  margin-left: -2px;
+}
+
+.gallery-item .image-box .imran_gallery img {
+    min-height: auto;
+    max-height: initial;
+}
+
+.github_mdimranhosen_faq{
+  width: 100%; 
+}
+
+.header-top-icon .imran-icon-color {
+    font-size: 24px;
+    padding: 4px;
+}
+.header-top-text a {
+    font-size: 11px;
+}
+.header-top-text p {
+    font-size: 11px;
+    line-height: 12px;
+}
+
+.imaranhosen_git_imgslider{
+  margin-top: 8%;
+}
+.modal_dismiss {
+  margin-right: 7%;
+  }
+ .sec-title {
+    padding-top: 20px;
+ }
+ .page_title_new {
+    margin-top: 150px;
+}
+.modal > .github_mdimranhosen_welcomemodal{
+    min-width: 80%;
+  }
+
+}
+
+@media only screen and (max-width: 545px) {
+ .header-style-two .outer-box, .header-style-two .logo-box, .header-style-two .main-menu .navigation > li {
+    width: 88%;
+  }
+  p.github_mdimranhosen_companyname_mobile {
+    font-size: 15px;
+  }
+}
+
+@media only screen and (max-width: 529px) {
+ .mdimranhosen_github_menutop {
+    padding-left: 3%;
+  }
+  #menu_logo img {
+    width: 40%;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .modal_dismiss {
+  margin-right: 0%;
+  }
+  .mdimranhosen_github_menutop{
+    padding: 2px;
+  }
+   .sec-title {
+    padding-top: 35px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+  }
+  .sec-title h1 {
+    font-size: 23px;
+ }
+ .imran_sbod img {
+    min-width: 50%;
+    min-height: auto;
+    max-height: auto;
+ }
+
+ .modal > .github_mdimranhosen_welcomemodal{
+    min-width: 90%;
+  }
+ 
+}
+
+@media only screen and (max-width: 420px) {
+ #menu_logo img {
+    width: 37%;
+ }
+ p.github_mdimranhosen_companyname_mobile {
+    font-size: 12px;
+ }
+ .header-style-two .outer-box, .header-style-two .logo-box, .header-style-two .main-menu .navigation > li {
+    width: 85%;
+ }
+ .modal-header > h6.welcome_modal_title {
+    font-size: 14px;
+ }
+}
+
+@media only screen and (max-width: 380px) {
+  .header-top-bottom-menu li a {
+    padding-right: 3px;
+    font-size: 11px;
+  }
+  .header-top-text {
+    float: left;
+    font-size: 10px;
+    padding-top: 0px;
+    margin-top: 0px;
+  }
+
+  .header-top-text p {
+    font-size: 9px;
+    line-height: 11px;
+   }
+   .header-top-text a {
+    font-size: 9px;
+  }
+  .header-top-icon .imran-icon-color {
+    font-size: 18px;
+    padding: 2px;
+  }
+  .mdimranhosen_github_menutop{
+    padding: 2px;
+  }
+  h1.annual_reports_style {
+    font-size: 23px;
+    padding-top: 5%;
+ }
+ .imran_sbod img {
+    min-width: 90%;
+    min-height: auto;
+    max-height: auto;
+ }
+ .header-style-two .outer-box, .header-style-two .logo-box, .header-style-two .main-menu .navigation > li {
+    width: 82%;
+ }
+ p.github_mdimranhosen_companyname_mobile {
+    font-size: 15px;
+ }
+ p.github_mdimranhosen_companyname_mobile.mobile_comname{
+  display: none;
+ }
+ #menu_logo img {
+  padding-top: 10px;
+ }
+ .sec-title {
+    padding-top: 15px;
+ }
+
+ .modal-header > h6.welcome_modal_title {
+    font-weight: 500;
+    font-size: 12px;
+  }
+  .event-info-tabs .tab-btn {
+    padding: 10px 19px;
+  }
+  
+}
+
+@media only screen and (max-width: 330px) {
+  .header-top-bottom-menu li a {
+    font-size: 9px;
+ }
+ .sec-title h1 {
+    font-size: 25px;
+ }
+ .event_financial_indicators_style h3 {
+    font-size: 22px;
+ }
+ .event_financial_indicators_style {
+    min-height: 120px;
+ }
+ h1.annual_reports_style {
+    color: black;
+    font-family: sans-serif;
+    font-size: 20px;
+    padding-left: 6px;
+ }
+ .github_imranhosen_annual_des li a {
+    font-size: 15px;
+ }
+ .imran_sbod img {
+    min-width: 90%;
+    min-height: auto;
+    max-height: auto;
+ }
+ .event-info-tabs .tab-btn {
+    padding: 10px 14px;
+ }
+ 
+}
+
+@media only screen and (max-width: 290px) {
+  .header-top-bottom-menu li a {
+    font-size: 8px;
+ }
+ .mdimranhosen_github_menutop{
+    padding: 0px;
+  }
+ .header-top-icon .imran-icon-color {
+    font-size: 14px;
+    padding: 1px;
+}
+
+ .header-top-text p {
+    font-size: 8px;
+    line-height: 3px;
+ }
+ .header-top-text a {
+    font-size: 8px;
+ }
+ .imran_sbod img {
+    min-width: 90%;
+    min-height: auto;
+    max-height: auto;
+ }
+ .nav-outer.gighub_imranhosen_menuicon{
+    color: black;
+    padding-right: 2px;
+  }
+
+}

@@ -1,0 +1,73 @@
+RewriteEngine on
+RewriteCond $1 !^(index\.php|resources|robots\.txt)
+RewriteCond %{SCRIPT_FILENAME} !-d
+RewriteCond %{SCRIPT_FILENAME} !-f
+RewriteRule ^index/?$ index.php [NC,L]
+RewriteRule ^about-us/?$ about-us.php [NC,L]
+RewriteRule ^gallery/?$ gallery.php [NC,L]
+RewriteRule ^media-gallery/?$ media-gallery.php [NC,L]
+RewriteRule ^product-services/?$ product-services.php [NC,L]
+RewriteRule ^services-details/?$ services-details.php [NC,L]
+RewriteRule ^contact-us/?$ contact-us.php [NC,L]
+RewriteRule ^board-of-directors/?$ board-of-directors.php [NC,L]
+RewriteRule ^staff-member/?$ staff-member.php [NC,L]
+RewriteRule ^senior-management-team/?$ senior-management-team.php [NC,L]
+RewriteRule ^senior-development-team/?$ senior-development-team.php [NC,L]
+RewriteRule ^message-from-chairman/?$ message-from-chairman.php [NC,L]
+RewriteRule ^message-from-managing-director-and-ceo/?$ message-from-managing-director-and-ceo.php [NC,L]
+RewriteRule ^company-profile/?$ company-profile.php [NC,L]
+RewriteRule ^our-vision-mission/?$ our-vision-mission.php [NC,L]
+RewriteRule ^share-holders/?$ share-holders.php [NC,L]
+RewriteRule ^financial-indicators/?$ financial-indicators.php [NC,L]
+RewriteRule ^shareholding-structure/?$ shareholding-structure.php [NC,L]
+RewriteRule ^financial-strength/?$ financial-strength.php [NC,L]
+RewriteRule ^annual-reports/?$ annual-reports.php [NC,L]
+RewriteRule ^credit-rating-reports/?$ credit-rating-reports.php [NC,L]
+RewriteRule ^unsettled-claim-information/?$ unsettled-claim-information.php [NC,L]
+RewriteRule ^company-prospectus/?$ company-prospectus.php [NC,L]
+RewriteRule ^branches/?$ branches.php [NC,L]
+RewriteRule ^who-we-are/?$ who-we-are.php [NC,L]
+RewriteRule ^claims-outstanding/?$ claims-outstanding.php [NC,L]
+RewriteRule ^agent-license/?$ agent-license.php [NC,L]
+RewriteRule ^download-forms/?$ download-forms.php [NC,L]
+RewriteRule ^career/?$ career.php [NC,L]
+RewriteRule ^submit-resume/?$ submit-resume.php [NC,L]
+RewriteRule ^news-events/?$ news-events.php [NC,L]
+RewriteRule ^fire-insurance/?$ fire-insurance.php [NC,L]
+RewriteRule ^engineering-insurance/?$ engineering-insurance.php [NC,L]
+RewriteRule ^motor-insurance/?$ motor-insurance.php [NC,L]
+RewriteRule ^marine-cargo-insurance/?$ marine-cargo-insurance.php [NC,L]
+RewriteRule ^miscellaneous/?$ miscellaneous.php [NC,L]
+RewriteRule ^liability-insurance/?$ liability-insurance.php [NC,L]
+RewriteRule ^directors-employers-list/?$ directors-employers-list.php [NC,L]
+RewriteRule ^policy/?$ policy.php [NC,L]
+RewriteRule ^news-events-details/?$ news-events-details.php [NC,L]
+RewriteRule ^faq/?$ faq.php [NC,L]
+RewriteRule ^online-claim/?$ online-claim.php [NC,L]
+RewriteRule ^digital-insurance/?$ digital-insurance.php [NC,L]
+RewriteRule ^fireInsurance/?$ fireInsurance.php [NC,L]
+RewriteRule ^engineeringinsurance/?$ engineeringinsurance.php [NC,L]
+RewriteRule ^marinecargoinsurance/?$ marinecargoinsurance.php [NC,L]
+RewriteRule ^miscellaneousinsurance/?$ miscellaneousinsurance.php [NC,L]
+RewriteRule ^liabilityinsurance/?$ liabilityinsurance.php [NC,L]
+RewriteRule ^motorinsurance/?$ motorinsurance.php [NC,L]
+
+RewriteRule ^board-of-directors/([0-9]+)/?$ bod-details.php?em_url=$1
+RewriteRule ^senior-management-team/([0-9]+)/?$ senior-management-team-details.php?em_url=$1
+RewriteRule ^senior-development-team/([0-9]+)/?$ senior-development-team-details.php?em_url=$1
+
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /(.*)index\.php($|\ |\?)
+RewriteRule ^ /%1 [R=301,L]
+RewriteRule ^news-events/([0-9]+)/?$ news-events.php?page=$1
+RewriteRule ^news-events-details/([0-9]+)/?$ news-events-details.php?nedid=$1
+
+RewriteRule ^gallery/([0-9]+)/?$ gallery.php?page=$1
+RewriteRule ^media-gallery/([0-9]+)/?$ media-gallery.php?page=$1
+
+RewriteRule ^product-services/([0-9]+)/?$ services-details.php?psurl=$1
+RewriteRule ^policy/([0-9]+)/?$ policy.php?policyid=$1
+
+RewriteRule ^faq/([0-9]+)/?$ faq.php?psid=$1
+
+RewriteCond %{HTTP_HOST} ^localhost/ciclbd [NC]
+RewriteRule ^(.*)$ http://localhost/ciclbd/$1 [L,R=301,NC]
