@@ -30,11 +30,18 @@
  <li> Password: 12345678 </li>
 </ul>
 <h1> Some Screenshots </h1>
+
+Inline-style:
 ![alt text](https://raw.githubusercontent.com/MdImranHosen/Insurance-Company-Limited/master/Awebfox/2.png "First image")
-![alt text](https://raw.githubusercontent.com/MdImranHosen/Insurance-Company-Limited/master/Awebfox/news_event.png "Second image")
-![alt text](https://raw.githubusercontent.com/MdImranHosen/Insurance-Company-Limited/master/Awebfox/admin_1.png "Third image")
-![alt text](https://raw.githubusercontent.com/MdImranHosen/Insurance-Company-Limited/master/Awebfox/admin_share-holdings.png "Four image")
-![alt text](https://raw.githubusercontent.com/MdImranHosen/Insurance-Company-Limited/master/Awebfox/home.png "Five image")
+
+Inline-style: 
+![alt second](https://raw.githubusercontent.com/MdImranHosen/Insurance-Company-Limited/master/Awebfox/news_event.png "Second image")
+
+![alt third](https://raw.githubusercontent.com/MdImranHosen/Insurance-Company-Limited/master/Awebfox/admin_1.png "Third image")
+
+![alt four](https://raw.githubusercontent.com/MdImranHosen/Insurance-Company-Limited/master/Awebfox/admin_share-holdings.png "Four image")
+
+![alt five](https://raw.githubusercontent.com/MdImranHosen/Insurance-Company-Limited/master/Awebfox/home.png "Five image")
 
 # MD. IMRAN HOSEN
 ## Email: imranhosen.csit@gmail.com
