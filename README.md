@@ -29,16 +29,12 @@
  <li> UserName: admin@domain.com </li>
  <li> Password: 12345678 </li>
 </ul>
-
 <h1> Some Screenshots </h1>
-
-<img scr="Awebfox/2.png" width="100%" />
-<img scr="Awebfox/news_event.png" width="100%" />
-<img scr="Awebfox/admin_1.png" width="100%" />
-<img scr="Awebfox/admin_share-holdings.png" width="100%" />
-<img scr="Awebfox/home.png" width="100%" />
-
 ![alt text](https://raw.githubusercontent.com/MdImranHosen/Insurance-Company-Limited/master/Awebfox/2.png "First image")
+![alt text](https://raw.githubusercontent.com/MdImranHosen/Insurance-Company-Limited/master/Awebfox/news_event.png "Second image")
+![alt text](https://raw.githubusercontent.com/MdImranHosen/Insurance-Company-Limited/master/Awebfox/admin_1.png "Third image")
+![alt text](https://raw.githubusercontent.com/MdImranHosen/Insurance-Company-Limited/master/Awebfox/admin_share-holdings.png "Four image")
+![alt text](https://raw.githubusercontent.com/MdImranHosen/Insurance-Company-Limited/master/Awebfox/home.png "Five image")
 
 # MD. IMRAN HOSEN
 ## Email: imranhosen.csit@gmail.com
