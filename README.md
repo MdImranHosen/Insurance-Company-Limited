@@ -14,7 +14,7 @@
 
 <h1>Install</h1>
 <ul>
- <li> First download this roject </li>
+ <li> First download this Poject </li>
  <li> Second (Localhost Or Web Server) Database nmae create like "ins_bd" </li>
  <li> Project in "Insurance-Company-Limited >> DB >> ins_bd.sql " file import with in ins_bd </li>
  <li> Click on Database "ins_bd" to "settings" table attribute "site_url" value change "http://localhost/ins_bd/" to "your_domain_url" must be url end use "/"  </li>
